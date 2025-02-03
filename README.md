@@ -77,5 +77,5 @@ graph LR
 
 <div align="center">
 💡 Have ideas? [Open an Issue](https://github.com/Prasaderp/MemeForge-SDXL-Gemini-GenAI/issues)  
-📩 Contact: your.email@example.com  
+📩 Contact: itsprasadsomvanshi@gmail.com
 </div>
