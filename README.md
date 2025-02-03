@@ -76,6 +76,6 @@ graph LR
 ---
 
 <div align="center">
-💡 Have ideas? [Open an Issue](https://github.com/YourUsername/MemeForge/issues)  
+💡 Have ideas? [Open an Issue](https://github.com/Prasaderp/MemeForge-SDXL-Gemini-GenAI/issues)  
 📩 Contact: your.email@example.com  
 </div>
