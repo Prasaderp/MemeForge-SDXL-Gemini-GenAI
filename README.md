@@ -13,7 +13,7 @@
 ---
 
 ## 🖼️ Preview
-![MemeForge UI](https://github.com/Prasaderp/Real-Time-Emotion-Analytics-System-using-OpenCV/blob/d1553978e6228bdfc50b771d4cabc8d224841412/Preview.png)
+![MemeForge UI](https://github.com/Prasaderp/Real-Time-Emotion-Analytics-System-using-OpenCV/blob/master/Preview.png)
 
 ---
 
