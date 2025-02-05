@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎭 MemeForge
+# MemeForge
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
 [![Gradio](https://img.shields.io/badge/UI-Gradio-0085FF)](https://gradio.app)
@@ -12,21 +12,21 @@
 
 ---
 
-## 🖼️ Preview
+## Preview
 ![MemeForge UI](https://github.com/Prasaderp/Real-Time-Emotion-Analytics-System-using-OpenCV/blob/master/Preview.png)
 
 ---
 
 ## 🚀 Features
 - **AI-Generated Memes**
-  - 📸 Image creation using **Stable Diffusion**
-  - 🤖 Text generation via **Gemini AI**
+  -  Image creation using **Stable Diffusion**
+  -  Text generation via **Gemini AI**
 - **Customizable Styles**
-  - 🎨 Choose meme styles (Modern, Classic, Dark Humor, Wholesome)
-  - 🔠 Select font type (Impact, Arial, Comic Sans, Roboto)
+  -  Choose meme styles (Modern, Classic, Dark Humor, Wholesome)
+  -  Select font type (Impact, Arial, Comic Sans, Roboto)
 - **One-Click Sharing & Download**
-  - 📥 Save memes locally
-  - 📤 Share to social media (Coming soon!)
+  -  Save memes locally
+  -  Share to social media (Coming soon!)
 
 ---
 
